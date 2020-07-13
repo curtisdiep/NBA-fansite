@@ -1,0 +1,56 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="Fansite.css">
+<link rel = "stylesheet" href = "Fansite2.css">
+<title> NBA Fansite#3548 </title>
+
+</head>
+<body>
+<h1> Welcome to NBA Fansite#3548</h1>
+<p> Introduction: The National Basketball Association (NBA) is a men's professional basketball league in North America, composed of 30 teams (29 in the United States and 1 in Canada). It is one of the four major professional sports leagues in the United States and Canada, and is widely considered to be the premier men's professional basketball league in the world.</p>
+
+
+<!-- First Dropdown, for Teams-->
+<div class="teams-dropdown">
+  <button class="teams-button">Favorite Teams</button>
+  <div class="teams-content">
+    <a href="https://en.wikipedia.org/wiki/2006%E2%80%9307_Phoenix_Suns_season"> 2006 Phoenix Suns </a>
+    <a href="https://en.wikipedia.org/wiki/2004%E2%80%9305_Detroit_Pistons_season">2005 Detroit Pistons</a>
+    <a href="https://en.wikipedia.org/wiki/2013%E2%80%9314_San_Antonio_Spurs_season">2013 San Antonio Spurs</a>
+    <a href = "https://en.wikipedia.org/wiki/2015%E2%80%9316_Golden_State_Warriors_season"> 2015 Golden State Warriors</a>
+  </div>
+</div>
+
+<!--
+	<br> <br> <br>
+-->
+
+<!--Second dropdown, for Players-->
+
+
+<div class = "players-dropdown"> 
+
+<button class = "players-button"> Favorite Players </button>
+<div class = "players-content">
+	<a href="https://en.wikipedia.org/wiki/Steve_Nash"> Steve Nash</a>
+	<a href = "https://en.wikipedia.org/wiki/Gilbert_Arenas"> Gilbert Arenas</a>
+	<a href = "https://en.wikipedia.org/wiki/Deron_Williams"> Deron Williams </a>
+	<a href = "Kobe Bryant.html"> Kobe Bryant </a>
+	<a href = "https://en.wikipedia.org/wiki/Allen_Iverson"> Allen Iverson</a>
+</div>
+
+</div>
+
+
+
+
+
+
+</body>
+</html>
+
+
+
+
